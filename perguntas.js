@@ -37,4 +37,3 @@ const perguntas = [
         ]
     }
 ];
-difyne:go
